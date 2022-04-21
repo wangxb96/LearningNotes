@@ -20,3 +20,35 @@
 
 ## 官方PPT
 [中科院知识图谱课件](https://github.com/wangxb96/LearningNotes/blob/main/KnowledgeGraph/%E4%B8%AD%E7%A7%91%E9%99%A2%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E8%AF%BE%E4%BB%B6_compressed.pdf)
+
+
+## 脑图
+### 第一章 绪论
+![知识图谱概述](https://github.com/wangxb96/LearningNotes/blob/main/KnowledgeGraph/%5B01%5D%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E6%A6%82%E8%BF%B0.png)
+
+### 第二章 知识表示
+![知识表示](https://github.com/wangxb96/LearningNotes/blob/main/KnowledgeGraph/%5B02%5D%E7%9F%A5%E8%AF%86%E8%A1%A8%E7%A4%BA.png)
+
+### 第三章 知识体系构建和知识融合
+![知识体系构建和知识融合](https://github.com/wangxb96/LearningNotes/blob/main/KnowledgeGraph/%5B03%5D%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E5%92%8C%E7%9F%A5%E8%AF%86%E8%9E%8D%E5%90%88.png)
+
+### 第四章 实体识别和扩展
+![实体识别和扩展](https://github.com/wangxb96/LearningNotes/blob/main/KnowledgeGraph/%5B04%5D%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB%E5%92%8C%E6%89%A9%E5%B1%95.png)
+
+### 第五章 实体消岐
+![实体消歧 ](https://github.com/wangxb96/LearningNotes/blob/main/KnowledgeGraph/%5B05%5D%E5%AE%9E%E4%BD%93%E6%B6%88%E6%AD%A7.png)
+
+### 第六章 关系抽取
+![关系抽取 ](https://github.com/wangxb96/LearningNotes/blob/main/KnowledgeGraph/%5B06%5D%E5%85%B3%E7%B3%BB%E6%8A%BD%E5%8F%96.png)
+
+### 第七章 事件抽取
+![事件抽取](https://github.com/wangxb96/LearningNotes/blob/main/KnowledgeGraph/%5B07%5D%E4%BA%8B%E4%BB%B6%E6%8A%BD%E5%8F%96.png)
+
+### 第八章 知识存储和检索
+![知识存储和检索](https://github.com/wangxb96/LearningNotes/blob/main/KnowledgeGraph/%5B08%5D%E7%9F%A5%E8%AF%86%E5%AD%98%E5%82%A8%E5%92%8C%E6%A3%80%E7%B4%A2.png)
+
+### 第九章 知识推理
+![知识推理](https://github.com/wangxb96/LearningNotes/blob/main/KnowledgeGraph/%5B09%5D%E7%9F%A5%E8%AF%86%E6%8E%A8%E7%90%86.png)
+
+### 第十章 知识问答与对话
+![知识问答与对话](https://github.com/wangxb96/LearningNotes/blob/main/KnowledgeGraph/%5B10%5D%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94%E4%B8%8E%E5%AF%B9%E8%AF%9D.png)
